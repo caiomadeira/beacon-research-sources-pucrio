@@ -1,5 +1,7 @@
 # Beacon Seminary Sources and Material
 
+Sources for PUC-RIO seminary of BLE Beacons.
+
 ---
 Product Analytis Sources:  
  - youtube.com

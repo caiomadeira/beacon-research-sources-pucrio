@@ -13,7 +13,7 @@ Product Analytis Sources:
  - mercadolivre.com.br
 
  ---
- Images:
+ Images:  
   - https://gifer.com/en/gifs/маяк
   - https://livebeacon.com/uploads
   - flaticon.com
@@ -21,7 +21,7 @@ Product Analytis Sources:
   - https://www.mokosmart.com/pt/ble-beacon/
   
   ---
-  Reviews and Web articles:
+  Reviews and Web articles:  
     - https://www.mokoblue.com/pt/what-is-beacon/](https://www.mokoblue.com/pt/what-is-beacon/)  
     - https://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2012_2/bluetooth/index.htm  
     - https://www.repositoriobib.ufc.br/000033/00003321.pdf  
@@ -35,12 +35,12 @@ Product Analytis Sources:
     - https://www-itprotoday-com.translate.goog/data-security-encryption/56-bit-vs-128-bit-encryption-service?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc  
     
   ---
-  Examples (Use cases):
+  Examples (Use cases):  
    - https://www.pubnub.com/blog/create-a-tessel-beacon-ibeacon-with-a-ble-module-tutorial-overview/  
    - https://www.pubnub.com/blog/build-android-beacon-ibeacon-detector/  
    
   ---
-  Research Articles:
+  Research Articles:  
     - https://www.sciencedirect.com/science/article/pii/S1389128621005697  
     - https://www.nature.com/articles/s41597-022-01406-2](https://www.nature.com/articles/s41597-022-01406-2)  
     - https://meetingofideas.files.wordpress.com/2013/12/ibeacons-bible-1-0.pdf  
@@ -49,6 +49,6 @@ Product Analytis Sources:
     - https://www.hindawi.com/journals/js/2017/4080479/   
     
    ---
-   Development:
+   Development:  
     - https://www.youtube.com/watch?v=lCNpEaZiKqU](https://www.youtube.com/watch?v=lCNpEaZiKqU)  
     - https://www.youtube.com/watch?v=VdEOk3KRqb4](https://www.youtube.com/watch?v=VdEOk3KRqb4)  

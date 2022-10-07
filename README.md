@@ -5,7 +5,7 @@ Sources for PUC-RIO seminary of BLE Beacons.
 ---
 Product Analytis Sources:  
  - youtube.com
- - amazon.cpm
+ - amazon.com
  - estimote.com
  - kontakt.io
  - bluecharms.com
@@ -19,7 +19,12 @@ Product Analytis Sources:
   - flaticon.com
   - https://www.lifewire.com/what-is-beacon-technology-4171930
   - https://www.mokosmart.com/pt/ble-beacon/
-  
+    ---
+  Reviews and Web articles(fonts):
+   - https://scholar.google.com.br/scholar
+   - https://www.nature.com
+   - 
+   
   ---
   Reviews and Web articles:  
     - https://www.mokoblue.com/pt/what-is-beacon/](https://www.mokoblue.com/pt/what-is-beacon/)  
@@ -52,3 +57,9 @@ Product Analytis Sources:
    Development:  
     - https://www.youtube.com/watch?v=lCNpEaZiKqU](https://www.youtube.com/watch?v=lCNpEaZiKqU)  
     - https://www.youtube.com/watch?v=VdEOk3KRqb4](https://www.youtube.com/watch?v=VdEOk3KRqb4)  
+    
+    ---
+   ## Fonts off topic
+   
+   china e-commerce grow up DATA: https://www.trade.gov/country-commercial-guides/china-ecommerce and https://www.uol.com.br/tilt/colunas/felipe-zmoginski/2021/03/11/china-e-o-1-pais-do-mundo-a-ter-um-varejo-online-maior-que-o-fisico.htm
+ 

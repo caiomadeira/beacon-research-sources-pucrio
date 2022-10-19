@@ -4,25 +4,17 @@ Sources for PUC-RIO seminary of BLE Beacons.
 
 ---
 Product Analytis Sources(e-commerce):  
- - youtube.com
  - amazon.com
- - estimote.com
- - kontakt.io
- - bluecharms.com
  - aliexpress.com
  - mercadolivre.com.br
  - www.alibaba.com  
+ - ebay.com
 
 ---
-Product Analytis Sources:  
- - youtube.com
- - amazon.com
+Product Analytis Sources 2:  
  - estimote.com
  - kontakt.io
  - bluecharms.com
- - aliexpress.com
- - mercadolivre.com.br
- - www.alibaba.com
 
  ---
  Images:  

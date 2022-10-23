@@ -15,6 +15,10 @@ Product Analytis Sources 2:
  - estimote.com
  - kontakt.io
  - bluecharms.com
+ - https://www.bluecats.com
+ - https://www.aliexpress.com/store/1101063280?albagn=888888&&src=google&albch=search&acnt=479-062-3723&isdl=y&aff_short_key=UneMJZVf&albcp=15034374185&albag=129543002060&slnk=&trgt=dsa-42862830006&plac=&crea=555129724742&netw=g&device=c&mtctp=&memo1=&albbt=Google_7_search&aff_platform=google&gclid=CjwKCAjwu5yYBhAjEiwAKXk_eB-PFYUEQLePTkRSCkxPek-fOBa-3KfGoIWpNUNc3HA2XwjeaGnD8RoC41gQAvD_BwE&gclsrc=aw.ds
+ - https://feasycom.com/
+ - https://infillion.com/commerce/beacons/
 
  ---
  Images:  

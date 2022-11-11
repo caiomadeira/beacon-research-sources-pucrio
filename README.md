@@ -58,7 +58,9 @@ Product Analytis Sources 2:
     - https://www.nature.com/articles/s41597-022-01406-2](https://www.nature.com/articles/s41597-022-01406-2)  
     - https://meetingofideas.files.wordpress.com/2013/12/ibeacons-bible-1-0.pdf  
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634470/  
-    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5620545/#:~:text=PDR%20algorithm%20is%20a%20pedestrian,length%20calculation%2C%20and%20heading%20calculation  
+    - https://www.challengebasedlearning.org/wp-content/uploads/2019/03/CBL_Paper_2008.pdf
+    - https://www.challengebasedlearning.org
+     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5620545/#:~:text=PDR%20algorithm%20is%20a%20pedestrian,length%20calculation%2C%20and%20heading%20calculation  
     - https://www.hindawi.com/journals/js/2017/4080479/   
     
    ---
@@ -67,6 +69,7 @@ Product Analytis Sources 2:
     - https://www.youtube.com/watch?v=VdEOk3KRqb4](https://www.youtube.com/watch?v=VdEOk3KRqb4)  
     
     ---
+    
    ## Fonts off topic
    
    china e-commerce grow up DATA: https://www.trade.gov/country-commercial-guides/china-ecommerce and https://www.uol.com.br/tilt/colunas/felipe-zmoginski/2021/03/11/china-e-o-1-pais-do-mundo-a-ter-um-varejo-online-maior-que-o-fisico.htm
